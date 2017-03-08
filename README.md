@@ -1,2 +1,3 @@
 # py-exercises
-Exercises and Projects in Python
+Exercises and Projects in Python.
+#@author Jake Runyan
